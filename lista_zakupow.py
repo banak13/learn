@@ -17,3 +17,6 @@ for sklep, rzeczy in lista_zakupów.items():
 print("W sumie kupuję {} produktów.".format(x))
 
 zmiany zmiany zmiany
+
+
+asdfafafdsfsfa
