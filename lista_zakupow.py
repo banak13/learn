@@ -18,5 +18,5 @@ print("W sumie kupuję {} produktów.".format(x))
 
 zmiany zmiany zmiany
 
-
+Pozdrawiam maentora 
 asdfafafdsfsfa
