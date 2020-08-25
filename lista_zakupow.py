@@ -15,3 +15,5 @@ for sklep, rzeczy in lista_zakupów.items():
     for key in lista_zakupów.values():
         x += len(key)
 print("W sumie kupuję {} produktów.".format(x))
+
+zmiany zmiany zmiany
