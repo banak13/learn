@@ -1,6 +1,6 @@
-def is_palindrome(s):
-    s = list(s.replace(" ", "").lower())
-    return s == list(reversed(s))
+def is_palindrome(palindrom):
+    palindrom = list(palindrom.replace(" ", "").lower())
+    return palindrom == list(reversed(palindrom))
 
 
 
