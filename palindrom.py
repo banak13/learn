@@ -1,12 +1,13 @@
 def is_palindrome(s):
-
-  return list(s) == list(s)[::-1]
-
-
+    s = list(s.replace(" ", "").lower())
+    return s == list(reversed(s))
 
 
-print(is_palindrome("kajak"))
 
-print(is_palindrome("aa"))
+
+
+print(is_palindrome("Zakopane na pokaz"))
+
+print(is_palindrome("Aa"))
 
 print(is_palindrome("111112"))
