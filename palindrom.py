@@ -6,3 +6,6 @@ def is_palindrome(s):
 
 print(is_palindrome("kajak"))
 
+print(is_palindrome("aa"))
+
+print(is_palindrome("111112"))
