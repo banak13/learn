@@ -30,7 +30,7 @@ Mateusz = AdressContacts(
     e_mail = 'nifares@wp.pl'
 )
 
-Agniszka = AdressContacts(
+Agnieszka = AdressContacts(
     name = 'Agniszka',
     last_name = 'Bieszczad',
     company = 'Pasta Food',
@@ -59,3 +59,24 @@ def create_contacts():
         print(Mirek.name, Mirek.last_name, Mirek.company, Mirek.position, Mirek.e_mail)
 
 print(create_contacts())
+
+def __str__(self):
+    return f'{self.name} {self.last_name} {self.company} {self.position} {self.e_mail}'
+
+
+print(Mirek)
+print(Agnieszka)
+print(Pawel)
+print(Iwona)
+print(Mateusz)
+
+
+
+business_cards = [Pawel, Mateusz, Agnieszka, Iwona, Mirek]
+by_name = sorted(business_cards, key=lambda id: id.name)
+by_last_name = sorted(business_cards, key=lambda id: id.name)
+by_e_mail = sorted(business_cards, key=lambda id: id.e_mail)
+
+print(by_name)
+print(by_last_name)
+print(by_e_mail)

@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="503f7ca0-b1bb-4999-9250-960ffcc8c1d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/palindrom.py" beforeDir="false" afterPath="$PROJECT_DIR$/palindrom.py" afterDir="false" />
+    <list default="true" id="503f7ca0-b1bb-4999-9250-960ffcc8c1d7" name="Default Changelist" comment="Tworzenie klasy AdressContacts">
+      <change afterPath="$PROJECT_DIR$/faker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/learning-git-task.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learning-git-task.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KsiazkaAdresowa.py" beforeDir="false" afterPath="$PROJECT_DIR$/KsiazkaAdresowa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Omnie.html" beforeDir="false" afterPath="$PROJECT_DIR$/Omnie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,10 +33,97 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Shell Script" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="KsiazkaAdresowa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning-git-task" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Paweł Banak\.virtualenvs\python_test-LTbPhP9s\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KsiazkaAdresowa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="faker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning-git-task" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Paweł Banak\.virtualenvs\python_test-LTbPhP9s\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/faker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning-git-task" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning-git-task" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Kodilla\learning-git-task\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="palindrom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learning-git-task" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -43,8 +145,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.faker" />
+      <item itemvalue="Python.KsiazkaAdresowa" />
+      <item itemvalue="Python.palindrom" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.main (1)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.KsiazkaAdresowa" />
+        <item itemvalue="Python.faker" />
         <item itemvalue="Python.palindrom" />
       </list>
     </recent_temporary>
@@ -67,61 +180,167 @@
       <option name="project" value="LOCAL" />
       <updated>1598513635242</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="calc">
+      <created>1598519025972</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598519025972</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1.zmiana kodu">
+      <created>1598533293434</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598533293434</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1.zmiana kodu&#10;2.zmiana i łączenie znaków">
+      <created>1598543218279</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598543218279</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1.zmiana kodu&#10;2.zmiana i łączenie znaków&#10;3.poprawa zmiennej">
+      <created>1598544529667</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598544529667</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Tworzenie klasy AdressContacts">
+      <created>1598990017295</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598990017295</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Tworzenie strony oraz formularza">
+      <created>1599417280147</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599417280147</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update code" />
-    <option name="LAST_COMMIT_MESSAGE" value="update code" />
+    <MESSAGE value="calc" />
+    <MESSAGE value="1.zmiana kodu" />
+    <MESSAGE value="1.zmiana kodu&#10;2.zmiana i łączenie znaków" />
+    <MESSAGE value="1.zmiana kodu&#10;2.zmiana i łączenie znaków&#10;3.poprawa zmiennej" />
+    <MESSAGE value="Tworzenie klasy AdressContacts" />
+    <MESSAGE value="Tworzenie strony oraz formularza" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tworzenie strony oraz formularza" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="509" y="25" key="#KsiazkaAdresowa" timestamp="1598977405069">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="509" y="25" key="#KsiazkaAdresowa/0.0.1600.860@0.0.1600.860" timestamp="1598977405069" />
+    <state x="509" y="25" key="#calc" timestamp="1598518942225">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="509" y="25" key="#calc/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1598518942225" />
+    <state x="169" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599483680046">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1598518927134" />
+    <state x="169" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1599483680046" />
+    <state x="576" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599411607541">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="576" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1599411607541" />
+    <state x="508" y="25" key="#faker" timestamp="1598989588615">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="508" y="25" key="#faker/0.0.1600.860@0.0.1600.860" timestamp="1598989588614" />
+    <state x="909" y="29" key="#flask" timestamp="1599420244431">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="909" y="29" key="#flask/0.0.1600.860@0.0.1600.860" timestamp="1599420244431" />
     <state x="509" y="25" key="#palindrom" timestamp="1598513309955">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="509" y="25" key="#palindrom/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1598513309955" />
-    <state x="427" y="0" key="CommitChangelistDialog2" timestamp="1598513634690">
+    <state x="427" y="0" key="CommitChangelistDialog2" timestamp="1599488069387">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="427" y="0" key="CommitChangelistDialog2/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1598513634690" />
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1598514125464">
+    <state x="427" y="0" key="CommitChangelistDialog2/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1598533292853" />
+    <state x="427" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1599488069387" />
+    <state x="667" y="185" width="502" height="489" key="EnvironmentVariablesDialog" timestamp="1599421747433">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1598513539808" />
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1598514125464" />
-    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1598514125464">
+    <state x="667" y="185" width="502" height="489" key="EnvironmentVariablesDialog/0.0.1600.860@0.0.1600.860" timestamp="1599421747433" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1598977277515">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1598513539808" />
-    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1598514125464" />
-    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1598514125463">
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1598977277515" />
+    <state width="1579" height="282" key="GridCell.Tab.0.bottom" timestamp="1599559293431">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1598513539808" />
-    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1598514125463" />
-    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1598514125464">
+    <state width="1579" height="282" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1599559293431" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.-119.1920.1040@1600.-119.1920.1040" timestamp="1599558658717" />
+    <state width="1594" height="282" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1599559152362" />
+    <state width="1579" height="282" key="GridCell.Tab.0.center" timestamp="1599559293431">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1598513539808" />
-    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1598514125464" />
-    <state width="1579" height="276" key="GridCell.Tab.1.bottom" timestamp="1598514072416">
+    <state width="1579" height="282" key="GridCell.Tab.0.center/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1599559293431" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1600.860/1600.-119.1920.1040@1600.-119.1920.1040" timestamp="1599558658717" />
+    <state width="1594" height="282" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1599559152362" />
+    <state width="1579" height="282" key="GridCell.Tab.0.left" timestamp="1599559293431">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1579" height="282" key="GridCell.Tab.0.left/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1599559293431" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1600.860/1600.-119.1920.1040@1600.-119.1920.1040" timestamp="1599558658716" />
+    <state width="1594" height="282" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1599559152361" />
+    <state width="1579" height="282" key="GridCell.Tab.0.right" timestamp="1599559293431">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="282" key="GridCell.Tab.0.right/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1599559293431" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1600.860/1600.-119.1920.1040@1600.-119.1920.1040" timestamp="1599558658717" />
+    <state width="1594" height="282" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1599559152362" />
+    <state width="1579" height="276" key="GridCell.Tab.1.bottom" timestamp="1598519259062">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1598519259062" />
     <state width="1579" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1598514072416" />
-    <state width="1579" height="276" key="GridCell.Tab.1.center" timestamp="1598514072416">
+    <state width="1579" height="276" key="GridCell.Tab.1.center" timestamp="1598519259062">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1579" height="276" key="GridCell.Tab.1.center/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1598519259062" />
     <state width="1579" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1598514072416" />
-    <state width="1579" height="276" key="GridCell.Tab.1.left" timestamp="1598514072416">
+    <state width="1579" height="276" key="GridCell.Tab.1.left" timestamp="1598519259062">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1579" height="276" key="GridCell.Tab.1.left/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1598519259062" />
     <state width="1579" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1598514072416" />
-    <state width="1579" height="276" key="GridCell.Tab.1.right" timestamp="1598514072416">
+    <state width="1579" height="276" key="GridCell.Tab.1.right" timestamp="1598519259062">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1579" height="276" key="GridCell.Tab.1.right/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1598519259062" />
     <state width="1579" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1598514072416" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1598513660453">
+    <state x="301" y="75" key="SettingsEditor" timestamp="1599482954952">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1598513660453" />
+    <state x="301" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1599482954952" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1599417304123">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1598533303805" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1599417304123" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/KsiazkaAdresowa.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
