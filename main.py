@@ -1,34 +1,35 @@
-from flask import Flask, send_file, jsonify
+from flask import Flask, send_file, render_template, request
 
 app = Flask(__name__)
 
-@app.route('/form', methods=['GET'])
+@app.route('/mypage/contact', methods=['GET', 'POST'])
 def form():
-    with open('./form.html', 'r', encoding='utf-8') as f:
-        text = f.read()
-    return text
 
-@app.route('/Omnie', methods=['GET'])
-def Omnie():
-    with open('./Omnie.html', 'r', encoding='utf-8') as f:
-        text = f.read()
+    if request.method == 'GET':
+        print("We received GET")
 
-    return text
+    elif request.method == 'POST':
+        print("We received POST")
+        requestt = request.form.getlist('name[]')
+        print(request.form)
 
-@app.route('/style', methods=['GET'])
-def style():
-    with open('./style.css', 'r') as f:
-        text = f.read()
+    return render_template("form.html")
 
-    return app.send_static_file ('text')
+@app.route('/mypage/me', methods=['GET'])
+def o_mnie():
 
-@app.route('/profilowe.jpg', methods=['GET'])
-def f():
-    return send_file('./profilowe.jpg', mimetype='image/jpeg')
+    return render_template("Omnie.html")
 
-@app.route('/Omnie', methods=['POST'])
-def post_message():
-    return "OK"
 
+
+@app.route('/message', methods=['GET', 'POST'])
+def message():
+   if request.method == 'GET':
+       print("We received GET")
+       return render_template("form.html")
+   elif request.method == 'POST':
+       print("We received POST")
+       print(request.form)
+       return redirect("/")
 
 app.run(port=3000, host="0.0.0.0")
