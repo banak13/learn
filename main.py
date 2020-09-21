@@ -10,13 +10,15 @@ def form():
 
     elif request.method == 'POST':
         print("We received POST")
-        requestt = request.form.getlist('name[]')
+        requestt = request.form.get('textarea')
         print(request.form)
 
     return render_template("form.html")
 
 @app.route('/mypage/me', methods=['GET'])
 def o_mnie():
+    if request.method =='GET':
+
 
     return render_template("Omnie.html")
 

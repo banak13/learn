@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="503f7ca0-b1bb-4999-9250-960ffcc8c1d7" name="Default Changelist" comment="FLASK">
+    <list default="true" id="503f7ca0-b1bb-4999-9250-960ffcc8c1d7" name="Default Changelist" comment="CSV">
+      <change afterPath="$PROJECT_DIR$/FIlms.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bussines_card.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/projekt/dziedziczenie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projekt/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Omnie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Currency.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bank_currencies.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/faker.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -17,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -43,11 +48,77 @@
       <recent name="C:\Kodilla\learning-git-task\mypage" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.contact">
+  <component name="RunManager" selected="Python.app">
+    <configuration name="FIlms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning-git-task" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FIlms.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MoviesDict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning-git-task" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MoviesDict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="learning-git-task" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Paweł Banak\.virtualenvs\python_test-LTbPhP9s\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="contact" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="learning-git-task" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -83,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dziedziczenie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dziedziczenie" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="learning-git-task" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,14 +197,18 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.app" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.contact" />
       <item itemvalue="Python.dziedziczenie" />
+      <item itemvalue="Python.MoviesDict" />
+      <item itemvalue="Python.FIlms" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.FIlms" />
+        <item itemvalue="Python.MoviesDict" />
         <item itemvalue="Python.contact" />
-        <item itemvalue="Python.dziedziczenie" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +286,28 @@
       <option name="project" value="LOCAL" />
       <updated>1599585373396</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="contact">
+      <created>1600027483329</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600027483329</updated>
+    </task>
+    <task id="LOCAL-00011" summary="FLASK">
+      <created>1600272306928</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600272306928</updated>
+    </task>
+    <task id="LOCAL-00012" summary="CSV">
+      <created>1600277291770</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1600277291770</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -222,9 +318,11 @@
     <MESSAGE value="1.zmiana kodu&#10;2.zmiana i łączenie znaków&#10;3.poprawa zmiennej" />
     <MESSAGE value="Tworzenie klasy AdressContacts" />
     <MESSAGE value="Tworzenie strony oraz formularza" />
-    <MESSAGE value="FLASK" />
     <MESSAGE value="poprawki, ImmutableMultiDic([])," />
-    <option name="LAST_COMMIT_MESSAGE" value="poprawki, ImmutableMultiDic([])," />
+    <MESSAGE value="contact" />
+    <MESSAGE value="FLASK" />
+    <MESSAGE value="CSV" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSV" />
   </component>
   <component name="WindowStateProjectService">
     <state x="509" y="25" key="#KsiazkaAdresowa" timestamp="1598977405069">
@@ -235,19 +333,20 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="509" y="25" key="#calc/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1598518942225" />
-    <state x="169" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600026712207">
+    <state x="169" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600634719507">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1598518927134" />
-    <state x="169" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1600026712207" />
-    <state x="576" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599411607541">
+    <state x="1803" y="4" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/1600.-119.1920.1040@1600.-119.1920.1040" timestamp="1600076399924" />
+    <state x="169" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1600634719507" />
+    <state x="576" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600707155396">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="576" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1599411607541" />
-    <state x="495" y="152" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1600025553572">
+    <state x="576" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1600707155396" />
+    <state x="495" y="152" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1600633356226">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="495" y="152" key="#com.intellij.ide.macro.MacrosDialog/0.0.1600.860@0.0.1600.860" timestamp="1600025553572" />
+    <state x="495" y="152" key="#com.intellij.ide.macro.MacrosDialog/0.0.1600.860@0.0.1600.860" timestamp="1600633356226" />
     <state x="508" y="25" key="#faker" timestamp="1598989588615">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -264,73 +363,82 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="509" y="25" key="#palindrom/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1598513309955" />
-    <state x="427" y="0" key="CommitChangelistDialog2" timestamp="1599585372726">
+    <state x="427" y="0" width="1093" height="860" key="CommitChangelistDialog2" timestamp="1600277291113">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="427" y="0" key="CommitChangelistDialog2/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1599559452173" />
     <state x="2112" y="-119" key="CommitChangelistDialog2/0.0.1600.860/1600.-119.1920.1040@1600.-119.1920.1040" timestamp="1599565011241" />
-    <state x="427" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1599585372726" />
-    <state x="667" y="185" width="502" height="489" key="EnvironmentVariablesDialog" timestamp="1599421747433">
+    <state x="427" y="0" width="1093" height="860" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1600277291113" />
+    <state x="667" y="185" width="640" height="489" key="EnvironmentVariablesDialog" timestamp="1600634636713">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="667" y="185" width="502" height="489" key="EnvironmentVariablesDialog/0.0.1600.860@0.0.1600.860" timestamp="1599421747433" />
+    <state x="667" y="185" width="640" height="489" key="EnvironmentVariablesDialog/0.0.1600.860@0.0.1600.860" timestamp="1600634636713" />
     <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1600020817601">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1600020817601" />
-    <state width="1579" height="95" key="GridCell.Tab.0.bottom" timestamp="1600027137982">
+    <state width="1579" height="202" key="GridCell.Tab.0.bottom" timestamp="1600707262937">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1012" height="223" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1599733379581" />
-    <state width="1899" height="335" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.-119.1920.1040@1600.-119.1920.1040" timestamp="1599573553463" />
-    <state width="1579" height="95" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1600027137982" />
-    <state width="1579" height="95" key="GridCell.Tab.0.center" timestamp="1600027137982">
+    <state width="1579" height="151" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1600075278383" />
+    <state width="1899" height="257" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.-119.1920.1040@1600.-119.1920.1040" timestamp="1600087572777" />
+    <state width="1579" height="202" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1600707262937" />
+    <state width="1579" height="202" key="GridCell.Tab.0.center" timestamp="1600707262937">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1012" height="223" key="GridCell.Tab.0.center/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1599733379581" />
-    <state width="1899" height="335" key="GridCell.Tab.0.center/0.0.1600.860/1600.-119.1920.1040@1600.-119.1920.1040" timestamp="1599573553462" />
-    <state width="1579" height="95" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1600027137982" />
-    <state width="1579" height="95" key="GridCell.Tab.0.left" timestamp="1600027137982">
+    <state width="1579" height="151" key="GridCell.Tab.0.center/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1600075278383" />
+    <state width="1899" height="257" key="GridCell.Tab.0.center/0.0.1600.860/1600.-119.1920.1040@1600.-119.1920.1040" timestamp="1600087572776" />
+    <state width="1579" height="202" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1600707262937" />
+    <state width="1579" height="202" key="GridCell.Tab.0.left" timestamp="1600707262937">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1012" height="223" key="GridCell.Tab.0.left/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1599733379581" />
-    <state width="1899" height="335" key="GridCell.Tab.0.left/0.0.1600.860/1600.-119.1920.1040@1600.-119.1920.1040" timestamp="1599573553462" />
-    <state width="1579" height="95" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1600027137982" />
-    <state width="1579" height="95" key="GridCell.Tab.0.right" timestamp="1600027137982">
+    <state width="1579" height="151" key="GridCell.Tab.0.left/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1600075278383" />
+    <state width="1899" height="257" key="GridCell.Tab.0.left/0.0.1600.860/1600.-119.1920.1040@1600.-119.1920.1040" timestamp="1600087572776" />
+    <state width="1579" height="202" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1600707262937" />
+    <state width="1579" height="202" key="GridCell.Tab.0.right" timestamp="1600707262937">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1012" height="223" key="GridCell.Tab.0.right/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1599733379581" />
-    <state width="1899" height="335" key="GridCell.Tab.0.right/0.0.1600.860/1600.-119.1920.1040@1600.-119.1920.1040" timestamp="1599573553463" />
-    <state width="1579" height="95" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1600027137982" />
-    <state width="1579" height="237" key="GridCell.Tab.1.bottom" timestamp="1599585275835">
+    <state width="1579" height="151" key="GridCell.Tab.0.right/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1600075278383" />
+    <state width="1899" height="257" key="GridCell.Tab.0.right/0.0.1600.860/1600.-119.1920.1040@1600.-119.1920.1040" timestamp="1600087572777" />
+    <state width="1579" height="202" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1600707262937" />
+    <state width="1579" height="237" key="GridCell.Tab.1.bottom" timestamp="1600062260021">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1598519259062" />
+    <state width="1579" height="237" key="GridCell.Tab.1.bottom/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1600062260021" />
     <state width="1579" height="237" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1599585275835" />
-    <state width="1579" height="237" key="GridCell.Tab.1.center" timestamp="1599585275835">
+    <state width="1579" height="237" key="GridCell.Tab.1.center" timestamp="1600062260021">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="276" key="GridCell.Tab.1.center/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1598519259062" />
+    <state width="1579" height="237" key="GridCell.Tab.1.center/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1600062260021" />
     <state width="1579" height="237" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1599585275835" />
-    <state width="1579" height="237" key="GridCell.Tab.1.left" timestamp="1599585275835">
+    <state width="1579" height="237" key="GridCell.Tab.1.left" timestamp="1600062260021">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="276" key="GridCell.Tab.1.left/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1598519259062" />
+    <state width="1579" height="237" key="GridCell.Tab.1.left/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1600062260021" />
     <state width="1579" height="237" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1599585275835" />
-    <state width="1579" height="237" key="GridCell.Tab.1.right" timestamp="1599585275835">
+    <state width="1579" height="237" key="GridCell.Tab.1.right" timestamp="1600062260021">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="276" key="GridCell.Tab.1.right/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1598519259062" />
+    <state width="1579" height="237" key="GridCell.Tab.1.right/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1600062260021" />
     <state width="1579" height="237" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1599585275835" />
-    <state x="301" y="75" key="SettingsEditor" timestamp="1600027017409">
+    <state x="301" y="75" key="SettingsEditor" timestamp="1600706533121">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="301" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1600027017409" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1599585385330">
+    <state x="2269" y="-33" key="SettingsEditor/0.0.1600.860/1600.-119.1920.1040@1600.-119.1920.1040" timestamp="1600076505820" />
+    <state x="301" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1600706533121" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1600277594678">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.-119.1920.1040@0.0.1600.860" timestamp="1599559464927" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1599585385330" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1600277594678" />
+    <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600272124090">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1600272124090" />
+    <state x="0" y="0" width="1417" height="847" key="dock-window-1" timestamp="1600628353936">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="0" width="1417" height="847" key="dock-window-1/0.0.1600.860@0.0.1600.860" timestamp="1600628353936" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
